@@ -1,0 +1,1 @@
+Side effect ou efeito colateral é qualquer alteração feita em uma variavel fora do seu escopo.
